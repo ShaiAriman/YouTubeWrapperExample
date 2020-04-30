@@ -1,0 +1,4 @@
+framework module YouTubeSearchWrapper {
+  header "YouTubeSearchWrapper-Swift.h"
+  requires objc
+}
